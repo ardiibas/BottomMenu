@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_food"
+        android:icon="@drawable/ic_home"
+        android:title="Food"/>
+
+    <item
+        android:id="@+id/menu_person"
+        android:icon="@drawable/ic_supervisor_account"
+        android:title="Pepople"/>
+
+    <item
+        android:id="@+id/menu_favorite"
+        android:icon="@drawable/ic_favorite"
+        android:title="Favorite"/>
+
+    <item
+        android:id="@+id/menu_profil"
+        android:icon="@drawable/ic_person"
+        android:title="Profile"/>
+
+</menu>
